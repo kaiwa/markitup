@@ -5,7 +5,7 @@
     "markitup/jquery.markitup.js",
     "markitup/sets/default/set.js",
     "markitup/sets/default/style.css",
-    "markitup/skins/simple/style.css",
+    "markitup/skins/simple/style.css"
   ],
   "ignore": [
     "markitup/templates/*",
