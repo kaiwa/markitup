@@ -6,7 +6,6 @@
     "markitup/sets/default/set.js",
     "markitup/sets/default/style.css",
     "markitup/skins/simple/style.css",
-    "markitup/skins/markitup/style.css"
   ],
   "ignore": [
     "markitup/templates/*",
