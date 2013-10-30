@@ -1,7 +1,13 @@
 {
   "name": "markitup",
   "version": "1.1.14",
-  "main": [ "markitup/jquery.markitup.js", "sets/*", "skins/*", "images/*" ],
+  "main": [
+    "markitup/jquery.markitup.js",
+    "markitup/sets/default/set.js",
+    "markitup/sets/default/set.css",
+    "markitup/skins/simple/style.css",
+    "markitup/skins/markitup/style.css"
+  ],
   "ignore": [
     "markitup/templates/*",
     "node_modules",
